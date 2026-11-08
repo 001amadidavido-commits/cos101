@@ -1,0 +1,11 @@
+student_name = input("Enter your full name: ")
+matriculation_number = input("Enter your matriculation number: ")
+programme = input("Enter your programme: ")
+
+print()
+print("STUDENT PROFILE")
+print("===============")
+print("Name:", student_name)
+print("Matriculation number:", matriculation_number)
+print("Programme:", programme)
+print("Level: 100")
